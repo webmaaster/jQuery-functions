@@ -1,0 +1,55 @@
+*{outline: 1px dotted red;}
+#website{
+    height:500px;
+    width:400px;
+    margin: 0 auto;
+    border:5px solid black;
+}
+#header{
+    height:75px;
+    width:400px;
+    border-bottom: 5px solid black;
+    background-color: gray;
+}
+#AddClass{
+    height:125px;
+    width:400px;
+    border-bottom: 5px solid black;
+}
+#AddClass h1{
+    text-align: center;
+}
+#AddClass button{
+    display:inline-block;
+}
+#AddClass p{
+    display:inline-block;
+}
+#Slidetoggle{
+    height:125px;
+    width:400px;
+    border-bottom: 5px solid black;
+}
+#Slidetoggle h1{
+    text-align: center;
+}
+#Slidetoggle button{
+    display:inline-block;
+}
+#Slidetoggle p{
+    display:inline-block;
+}
+#Append{
+    height:125px;
+    width:400px;
+    border-bottom: 5px solid black;
+}
+#Append h1{
+    text-align: center;
+}
+#Append button{
+    display:inline-block;
+}
+#Append p{
+    display:inline-block;
+}
